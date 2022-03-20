@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653056180927",
+    "project_id": "letchat-f37ac",
+    "storage_bucket": "letchat-f37ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653056180927:android:6dac8eb63c97d1f979bc0a",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653056180927-5uem1rq0pod89lsge54c49p3f02a3qhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0Ij6e352N6FazdYxkn0NBdYhCmBj4lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653056180927-5uem1rq0pod89lsge54c49p3f02a3qhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
